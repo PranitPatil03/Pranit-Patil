@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PranitPatil03
+- 👋 Hi, I’m @PranitPatil
 - 👀 I’m interested in ...Coding,Universe,Technology and many more..
 - 🌱 I’m currently learning ...JAVA WIth DSA And Web-Delevopment 
 - 💞️ I’m looking to collaborate on ...
